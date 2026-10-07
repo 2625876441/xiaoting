@@ -1,0 +1,14 @@
+# 依赖（本项目零依赖，仅防范误提交）
+node_modules/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+
+# 个人文档：与游戏源码无关，不随仓库发布
+对话记录.html
+*.pdf

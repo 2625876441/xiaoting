@@ -1,0 +1,5 @@
+# 统一换行符，避免 Windows 上提交把源码转成 CRLF
+* text=auto eol=lf
+
+# 第三方库按二进制处理，不做任何转换
+vendor/ binary
