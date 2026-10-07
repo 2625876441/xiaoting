@@ -5,6 +5,8 @@
 
 > 100 关 · 6 款皮肤（各带被动与主动技能）· 5 套场景主题 · 弹药制星级评分
 
+**简体中文** | [English](README.en.md)
+
 ## 🌐 在线体验
 
 **https://monster-slingshot.app.workbuddy.host/**
@@ -145,9 +147,11 @@ monster-slingshot/
 ├── test_smoke.js     # 零依赖冒烟测试（node test_smoke.js）
 ├── vendor/
 │   └── matter.min.js # Matter.js 0.19.0（内置，离线可玩；缺失时自动回退 CDN）
-└── README.md
+├── README.md         # 本文件（简体中文）
+├── README.en.md      # English
+└── LICENSE           # MIT
 ```
 
 ## 📄 许可
 
-代码仅供学习交流；Matter.js 遵循其 MIT 许可。
+本项目基于 [MIT](LICENSE) 许可开源；Matter.js 遵循其自身的 MIT 许可。
